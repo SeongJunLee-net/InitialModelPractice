@@ -1,4 +1,4 @@
-This is a Jupyter notebook file of RNN, LSTM, and Seq2Seq models made with Pytorch
+This is a Jupyter notebook file of RNN, LSTM, and Seq2Seq models made with Pytorch<br>
 that I created while studying time series early on.
 
 It's incomplete but contains a lot of beginner's thoughts.
