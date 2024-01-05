@@ -1,0 +1,6 @@
+[NLinear_config]
+seq_len = 1440
+pred_len = 1
+enc_in = 1
+individual = False
+

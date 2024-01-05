@@ -1,0 +1,5 @@
+[online_learning_seq2seq]
+input_size = 1
+num_layers = 1
+hidden_size = 8
+

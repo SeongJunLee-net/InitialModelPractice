@@ -1,0 +1,6 @@
+[online_learning_DLinear_sales]
+seq_len = 14
+pred_len = 1
+individual = False
+enc_in = 1
+

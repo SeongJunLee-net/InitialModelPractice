@@ -1,0 +1,5 @@
+[seq2seq_vol]
+input_size = 1
+hidden_size = 16
+num_layers = 2
+

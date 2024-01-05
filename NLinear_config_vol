@@ -1,0 +1,6 @@
+[NLinear_config_vol]
+seq_len = 7
+pred_len = 1
+enc_in = 1
+individual = False
+
